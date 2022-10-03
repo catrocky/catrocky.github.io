@@ -1,4 +1,3 @@
 # catrocky.github.io
-personal site
 
-a placeholder portfolio site
+Portfolio page. This is a rework of an older design
